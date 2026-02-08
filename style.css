@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; margin: 0; background:#0f172a; color:#e5e7eb; }
+.header { display:flex; justify-content:space-between; padding:16px 32px; background:#020617; }
+.header a { color:#e5e7eb; margin-left:16px; text-decoration:none; }
+.hero { padding:80px 32px; background:#111827; }
+.grid { display:grid; grid-template-columns: repeat(auto-fit,minmax(240px,1fr)); gap:24px; padding:32px; }
+.card { background:#020617; padding:24px; border-radius:12px; }
+.page { padding:32px; }
+footer { padding:16px 32px; background:#020617; text-align:center; }
