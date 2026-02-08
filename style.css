@@ -1,6 +1,6 @@
 body { font-family: Arial, sans-serif ; margin: 0; background:#00645a; color:#f2af4b; }
 .header { display:flex; justify-content:space-between; padding:16px 32px; background:#00645a; }
-.header a { color:#00645a; margin-left:16px; text-decoration:none; }
+.header a { color:#eb8e3d; margin-left:16px; text-decoration:none; }
 .hero { padding:80px 32px; background:#00645a; }
 .grid { display:grid; grid-template-columns: repeat(auto-fit,minmax(240px,1fr)); gap:24px; padding:32px; }
 .card { background:#057d51; padding:24px; border-radius:12px; }
