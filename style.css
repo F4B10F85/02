@@ -1,4 +1,4 @@
-body { font-family: Arial, Bahnschrift SemiCondensed; margin: 0; background:#00645a; color:#f2af4b; }
+body { font-family: Arial, sans-serif ; margin: 0; background:#00645a; color:#f2af4b; }
 .header { display:flex; justify-content:space-between; padding:16px 32px; background:#020617; }
 .header a { color:#e5e7eb; margin-left:16px; text-decoration:none; }
 .hero { padding:80px 32px; background:#111827; }
